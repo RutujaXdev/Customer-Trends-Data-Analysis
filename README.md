@@ -1,4 +1,4 @@
-ustomer Shopping Trends Analysis
+customer Shopping Trends Analysis
 Project Overview
 
 This project focuses on analyzing customer shopping trends and retail purchasing behavior using SQL, Python, and Power BI. The goal of the project is to perform end-to-end data analysis and generate business insights from retail customer data.
